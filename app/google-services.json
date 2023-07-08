@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "566507025010",
+    "project_id": "vin-app-b165f",
+    "storage_bucket": "vin-app-b165f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566507025010:android:c43b6b029f562b0eaa08eb",
+        "android_client_info": {
+          "package_name": "com.example.vin_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566507025010-ao96b33krgb79h07gk0rgilqg8f7grfa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd_lcy55Ui7sBbLl8LtWDVl7vUMVQnq1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566507025010-ao96b33krgb79h07gk0rgilqg8f7grfa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
